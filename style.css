@@ -4964,6 +4964,7 @@ button:disabled,
   position: absolute;
   left: 50%;
   bottom: calc(100% + 12px);
+  margin-left: 25px; 
   min-width: 150px;
   max-width: 220px;
   padding: 8px 12px;
